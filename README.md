@@ -1,6 +1,6 @@
 # Maze
 # Introduction
-Article will be linked here.
+Everything you need to know about this project is listed in this [article](https://bigzee550.medium.com/the-maze-project-3e2524d78081).
 # Installation
 * ```git clone https://github.com/SpacyFranky/Maze_v1.0.git```
 # Usage
